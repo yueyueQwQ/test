@@ -1,0 +1,71 @@
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+.container {
+	width: 870px;
+	height: 100%;
+	margin: 0px auto;
+}
+.nav {
+	height: 40px;
+	width: 100%;
+	/* 背景颜色: #e5e5e5; */
+	background-color: #e5e5e5;
+	margin-bottom: 5px;	
+}
+.page-link{
+	text-decoration: none;
+	color: #e5e5e5;
+}
+.page-link {
+	height: 40px;
+	width: 180px;
+	font-size: 19px;
+	font-weight: bold;
+	padding-top: 9px;
+}
+.text {
+	/* 颜色: #5b5b5b */
+    color: #5b5b5b;
+	font-weight: bold;
+	font-size: 15px;
+	text-align: left;
+	line-height: 40px;
+	height: 40px;
+	padding-left: 20px;
+}
+.link {
+	/* 颜色: #2a801f */
+	color: #2a801f;
+}
+.footer {
+	height: 40px;
+	width: 100%;
+	/* 背景颜色: #e5e5e5; */ 
+	margin: 50px auto 10px;
+}
+a {
+	/* 颜色: 白色 */
+	text-decoration: none;
+}
+
+h1 {
+	/* 改变字号: 48 */
+	font-size: 48;
+	font-weight: bold;
+	/* 改变颜色2: #2a801f */
+	color: #2a801f;
+	padding: 0px 5px;
+	margin: 10px 0px;
+}
+ul li {
+	display: inline-block;
+	width: 180px;
+	height: 40px;
+	line-height: 40px;
+  text-align: center;
+  color: white;
+  /* 添加背景 */
+  background-image: url(assets/page-button.png);
+}
