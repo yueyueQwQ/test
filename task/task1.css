@@ -1,0 +1,22 @@
+table{
+    width: auto;
+    height: 0px auto;
+    border: 1px solid #5b5b55;
+    margin: auto;
+    border-spacing: 0px;
+    
+}
+h4{
+    text-align: center;
+    
+}
+th{
+    border: 1px solid #5b5b55;
+}
+tr td{
+    border: 1px solid #5b5b55;
+}
+.one{
+    background-color: lightgray;
+    font-weight: 800;
+}

@@ -1,0 +1,42 @@
+#header{
+    box-sizing: border-box;
+    height: 100px;
+    padding: 10px;
+    background-color: #cdd3de;
+    text-align: left;
+  }
+
+  #page{
+    display: block;
+    clear: both;
+    content:"";
+    zoom: 1;
+}
+
+  #content{
+    box-sizing: border-box;
+    height: 200px;
+    margin: auto 40%;
+    width: 40%;
+    background-color: red;
+    
+  }
+  #sidebar{
+      box-sizing: border-box;
+      width: 20%;
+      height: 96px;
+      margin-top: 15px;
+    background-color: #f0d2e6;
+    float: right;
+  }
+  #sidebar2{
+    box-sizing: border-box;
+    width: 40%;
+    height: 96px;
+    margin-top: 16px;
+    background-color: green;
+    float: left;
+  }
+  #footer{
+    background-color: #f7f9c2;
+  }
